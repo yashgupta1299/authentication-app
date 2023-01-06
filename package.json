@@ -1,0 +1,17 @@
+{
+    "name": "method",
+    "version": "1.0.0",
+    "description": "Authentication method of user email for rest api using google auth",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "Yash Gupta",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.0",
+        "passport": "^0.6.0",
+        "passport-google-oauth20": "^2.0.0"
+    }
+}
