@@ -1,7 +1,7 @@
-### For REST API having Node.js and express
-Build with: 
+### Build for REST API having Node.js and express
+module used: 
 passport-google-oauth20, 
 passport,
 jsonwebtoken
 
-Authentication method of user email for rest api using google auth.
+Method to authenticate using google OAuth.
